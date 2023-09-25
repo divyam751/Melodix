@@ -1,0 +1,25 @@
+{
+  "name": "pw-13",
+  "version": "1.0.0",
+  "description": "Hi there! Welcome to my GitHub profile. I'm Divyam Chauhan, and I'm thrilled to share with you my latest creation—a web-based music player application. This project was born out of my passion for both music and coding, and I've poured my heart and soul into developing it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyam751/pw-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyam751/pw-13/issues"
+  },
+  "homepage": "https://github.com/divyam751/pw-13#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^3.19.1"
+  },
+  "devDependencies": {}
+}
